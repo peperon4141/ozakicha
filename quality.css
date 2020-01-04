@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* page setting
 --------------------------------------------------------- */
-@import "_cnskin/173c/css/style.css";
+@import "cnskin/173c/css/style.css";
 
 #L01 #area-header.noskin,#L02 #area-header.noskin,#L03 #area-header.noskin,#L07 #area-header.noskin,#L08 #area-header.noskin	{ width:100%;}
 #L01 #area-header,#L02 #area-header,#L03 #area-header,#L07 #area-header,#L08 #area-header	{ width:100%;}
@@ -34,6 +34,27 @@
 #L06 #area-main { margin-right:250px;}
 #L06 #area-side-a	{ width:240px;}
 
-body { background: #F3F3DF; }#area-header { background: #9A8A9F; }#area-footer { background: #9A8A9F; }
+body { background: #F3F3DF; }
+#area-header { background: #9A8A9F; }
+#area-footer { background: #9A8A9F; }
 
-#area-header #bk1299>div  { margin:0 auto; width:1020px;}#area-header #bk1300>div  { margin:0 auto; width:960px;}#area-billboard #bk1301>div  { margin:0 auto; width:960px;}#bk1301 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 30px }#area-main #bk1392>div  { margin:0 auto; width:960px;}#bk1392 div.lhn { padding-left: 0px; padding-top: 60px; padding-right: 0px; padding-bottom: 30px }#bk1306 { background: #BFD8CB; }#area-main #bk1306>div  { margin:0 auto; width:960px;}#bk1306 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#area-main #bk1313>div  { margin:0 auto; width:960px;}#bk1313 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#bk1314 { background: #DDD898; }#area-main #bk1314>div  { margin:0 auto; width:960px;}#bk1314 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#area-main #bk1317>div  { margin:0 auto; width:960px;}#bk1317 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#bk1315 { background: #EFC8B2; }#area-main #bk1315>div  { margin:0 auto; width:960px;}#bk1315 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#bk2001 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
+#area-header #bk1299>div  { margin:0 auto; width:1020px;}
+#area-header #bk1300>div  { margin:0 auto; width:960px;}
+#area-billboard #bk1301>div  { margin:0 auto; width:960px;}
+#bk1301 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 30px }
+#area-main #bk1392>div  { margin:0 auto; width:960px;}
+#bk1392 div.lhn { padding-left: 0px; padding-top: 60px; padding-right: 0px; padding-bottom: 30px }
+#bk1306 { background: #BFD8CB; }
+#area-main #bk1306>div  { margin:0 auto; width:960px;}
+#bk1306 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#area-main #bk1313>div  { margin:0 auto; width:960px;}
+#bk1313 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#bk1314 { background: #DDD898; }
+#area-main #bk1314>div  { margin:0 auto; width:960px;}
+#bk1314 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#area-main #bk1317>div  { margin:0 auto; width:960px;}
+#bk1317 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#bk1315 { background: #EFC8B2; }
+#area-main #bk1315>div  { margin:0 auto; width:960px;}
+#bk1315 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#bk2001 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }

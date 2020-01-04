@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* page setting
 --------------------------------------------------------- */
-@import "_cnskin/173c/css/style.css";
+@import "cnskin/173c/css/style.css";
 
 #L01 #area-header.noskin,#L02 #area-header.noskin,#L03 #area-header.noskin,#L07 #area-header.noskin,#L08 #area-header.noskin	{ width:100%;}
 #L01 #area-header,#L02 #area-header,#L03 #area-header,#L07 #area-header,#L08 #area-header	{ width:100%;}
@@ -34,6 +34,21 @@
 #L06 #area-main { margin-right:250px;}
 #L06 #area-side-a	{ width:240px;}
 
-body { background: #F3F3DF; }#area-header { background: #16650F; }#area-footer { background: #16650F; }
+body { background: #F3F3DF; }
+#area-header { background: #16650F; }
+#area-footer { background: #16650F; }
 
-#area-header #bk1962>div  { margin:0 auto; width:1020px;}#area-header #bk1973>div  { margin:0 auto; width:960px;}#area-billboard #bk1288>div  { margin:0 auto; width:960px;}#bk1288 div.lhm { padding-left: 0px; padding-top: 100px; padding-right: 0px; padding-bottom: 50px }#area-main #bk1291>div  { margin:0 auto; width:960px;}#area-main #bk1292>div  { margin:0 auto; width:100%;}#bk1293 { background: #FF4E08; }#area-main #bk1293>div  { margin:0 auto; width:100%;}#bk1293 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }#bk1931 { background: url(_src/sc917/white02.jpg) repeat; }#area-main #bk1931>div  { margin:0 auto; width:960px;}#bk1931 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 0px }#area-main #bk1391>div  { margin:0 auto; width:960px;}#bk1391 div.lhm { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#area-header #bk1962>div  { margin:0 auto; width:1020px;}
+#area-header #bk1973>div  { margin:0 auto; width:960px;}
+#area-billboard #bk1288>div  { margin:0 auto; width:960px;}
+#bk1288 div.lhm { padding-left: 0px; padding-top: 100px; padding-right: 0px; padding-bottom: 50px }
+#area-main #bk1291>div  { margin:0 auto; width:960px;}
+#area-main #bk1292>div  { margin:0 auto; width:100%;}
+#bk1293 { background: #FF4E08; }
+#area-main #bk1293>div  { margin:0 auto; width:100%;}
+#bk1293 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
+#bk1931 { background: url(_src/sc917/white02.jpg) repeat; }
+#area-main #bk1931>div  { margin:0 auto; width:960px;}
+#bk1931 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 0px }
+#area-main #bk1391>div  { margin:0 auto; width:960px;}
+#bk1391 div.lhm { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }

@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* page setting
 --------------------------------------------------------- */
-@import "_cnskin/173c/css/style.css";
+@import "cnskin/173c/css/style.css";
 
 #L01 #area-header.noskin,#L02 #area-header.noskin,#L03 #area-header.noskin,#L07 #area-header.noskin,#L08 #area-header.noskin	{ width:100%;}
 #L01 #area-header,#L02 #area-header,#L03 #area-header,#L07 #area-header,#L08 #area-header	{ width:100%;}
@@ -34,6 +34,12 @@
 #L06 #area-main { margin-right:250px;}
 #L06 #area-side-a	{ width:240px;}
 
-body { background: #F3F3DF; }#area-header { background: #9A8A9F; }#area-footer { background: #9A8A9F; }
+body { background: #F3F3DF; }
+#area-header { background: #9A8A9F; }
+#area-footer { background: #9A8A9F; }
 
-#area-header #bk1988>div  { margin:0 auto; width:1020px;}#area-header #bk1989>div  { margin:0 auto; width:960px;}#area-main #bk1993>div  { margin:0 auto; width:960px;}#bk1993 div.lhm { padding-left: 0px; padding-top: 70px; padding-right: 0px; padding-bottom: 0px }#area-main #bk1994>div  { margin:0 auto; width:960px;}
+#area-header #bk1988>div  { margin:0 auto; width:1020px;}
+#area-header #bk1989>div  { margin:0 auto; width:960px;}
+#area-main #bk1993>div  { margin:0 auto; width:960px;}
+#bk1993 div.lhm { padding-left: 0px; padding-top: 70px; padding-right: 0px; padding-bottom: 0px }
+#area-main #bk1994>div  { margin:0 auto; width:960px;}
