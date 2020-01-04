@@ -43,10 +43,10 @@ body { background: #F3F3DF; }
 #bk2007 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 30px }
 #bk2010 { background: #9A8A9F; }
 #area-main #bk2010>div  { margin:0 auto; width:960px;}
-#bk2016 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
-#bk2019 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
+#bk2016 { background: url(src/sc1023/japanese-paper25-3.jpg) repeat; }
+#bk2019 { background: url(src/sc1023/japanese-paper25-3.jpg) repeat; }
 #bk2021 { background: #9A8A9F; }
 #area-main #bk2021>div  { margin:0 auto; width:960px;}
-#bk2022 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
-#bk2020 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
-#bk2023 { background: url(_src/sc1023/japanese-paper25-3.jpg) repeat; }
+#bk2022 { background: url(src/sc1023/japanese-paper25-3.jpg) repeat; }
+#bk2020 { background: url(src/sc1023/japanese-paper25-3.jpg) repeat; }
+#bk2023 { background: url(src/sc1023/japanese-paper25-3.jpg) repeat; }

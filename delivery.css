@@ -42,7 +42,7 @@ body { background: #F3F3DF; }
 #area-header #bk1343>div  { margin:0 auto; width:960px;}
 #area-billboard #bk1344>div  { margin:0 auto; width:960px;}
 #bk1344 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 30px }
-#bk1345 { background: url(_src/sc1097/japanese-paper22-001.jpg) repeat; }
+#bk1345 { background: url(src/sc1097/japanese-paper22-001.jpg) repeat; }
 #area-main #bk1345>div  { margin:0 auto; width:960px;}
 #area-main #bk1355>div  { margin:0 auto; width:960px;}
 #bk1355 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
@@ -58,6 +58,6 @@ body { background: #F3F3DF; }
 #bk1356 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
 #area-main #bk1389>div  { margin:0 auto; width:960px;}
 #bk1389 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
-#bk1350 { background: url(_src/sc986/japanese-paper24-p.jpg) repeat; }
+#bk1350 { background: url(src/sc986/japanese-paper24-p.jpg) repeat; }
 #area-main #bk1350>div  { margin:0 auto; width:650px;}
 #bk1350 div.lhn { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 50px }

@@ -41,8 +41,8 @@ body { background: #F3F3DF; }
 #area-header #bk1318>div  { margin:0 auto; width:1020px;}
 #area-header #bk1319>div  { margin:0 auto; width:960px;}
 #bk1937 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 30px }
-#bk1982 { background: url(_src/sc1000/japanese-paper25-4.jpg) repeat; }
-#bk1984 { background: url(_src/sc1000/japanese-paper25-4.jpg) repeat; }
+#bk1982 { background: url(src/sc1000/japanese-paper25-4.jpg) repeat; }
+#bk1984 { background: url(src/sc1000/japanese-paper25-4.jpg) repeat; }
 #bk1324 { background: #9A8A9F; }
 #area-main #bk1324>div  { margin:0 auto; width:960px;}
 #bk1324 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }

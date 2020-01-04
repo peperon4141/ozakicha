@@ -47,7 +47,7 @@ body { background: #F3F3DF; }
 #bk1293 { background: #FF4E08; }
 #area-main #bk1293>div  { margin:0 auto; width:100%;}
 #bk1293 div.lhn { padding-left: 0px; padding-top: 30px; padding-right: 0px; padding-bottom: 30px }
-#bk1931 { background: url(_src/sc917/white02.jpg) repeat; }
+#bk1931 { background: url(src/sc917/white02.jpg) repeat; }
 #area-main #bk1931>div  { margin:0 auto; width:960px;}
 #bk1931 div.lhm { padding-left: 0px; padding-top: 50px; padding-right: 0px; padding-bottom: 0px }
 #area-main #bk1391>div  { margin:0 auto; width:960px;}
